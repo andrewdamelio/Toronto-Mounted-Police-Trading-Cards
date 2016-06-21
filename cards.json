@@ -1,0 +1,28 @@
+{
+  "card_front": "cards/blueMoonFront.png",
+  "card_back": "cards/blueMoonBack.png",
+  "horse_name": "Blue Moon",
+  "officer_name": "P.C. Petra Cawthorne",
+  "patrolling": "Parkdale"
+},
+{
+  "card_front": "cards/blueJayFront.png",
+  "card_back": "cards/BlueJayBack.png",
+  "horse_name": "Blue Jay",
+  "officer_name": "P.C. Brian Smith",
+  "patrolling": "Fort York Blvd"
+},
+{
+  "card_front": "cards/davisFront.png",
+  "card_back": "cards/davisBack.png",
+  "horse_name": "Davis",
+  "officer_name": "P.C. Rob Graham",
+  "patrolling": "Lake Ontario shoreline, near Humber Bay"
+},
+{
+  "card_front": "cards/bobbyFront.png",
+  "card_back": "cards/bobbyBack.png",
+  "horse_name": "Bobby",
+  "officer_name": "P.C. Jeremy Beaupre",
+  "patrolling": "Denfield Park, area near Kipling Avenue"
+}
